@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-3h9zhs.nuansa138win.site/sitemap.xml
